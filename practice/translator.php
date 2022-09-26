@@ -17,7 +17,7 @@ array(5) {
 
 # YOUR CODE HERE
 
- strtoupper(string $string): string
+ strtoupper(string $phrases): string
 
 # AFTER
 var_dump($phrases);
