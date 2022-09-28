@@ -2,7 +2,7 @@
 
 echo "Hello from week 4.php"
 
-
+# instructor code examples of arrays using card game
 $cards = [1, 2, 3, 4, 5, 6, 7, 8, 9, 10];
 shuffle($cards);
 
