@@ -10,6 +10,10 @@ $playerA = $throw[rand(0, 1, 2)];
 // Randomly choose one throw from the array as Player B move
 $playerB = $throw[rand(0, 1, 2)];
 
+var_dump($playerA);
+var_dump($playerB);
+
+
 // Compare Player A throw to Player B throw for draws and wins
 if ($playerA == $playerB) {
 ($result = 'Draw');
