@@ -11,7 +11,12 @@
         <h1>Rock Paper Scissors</h1> 
     </header>
     <main>
-        <p> <a ></a></p>
+        <p>
+       Player A threw $<?php echo $playerA; ?>  Player B threw $<?php echo $playerB; ?>  
+        $<?php echo $winner; ?>  is the winner.
+       Player A threw $<?php echo $playerA; ?>  Player B threw $<?php echo $playerB; ?> 
+       Game is a draw.
+    </p>
     </main>
     <footer>    </footer>
 </body>
