@@ -12,9 +12,11 @@
     </header>
     <main>
         <p>
-       Player A threw $<?php echo $playerA; ?>  Player B threw $<?php echo $playerB; ?>  
-        $<?php echo $winner; ?>  is the winner.
-       Player A threw $<?php echo $playerA; ?>  Player B threw $<?php echo $playerB; ?> 
+       Player A threw $<?php echo $playerA; ?>  <br> 
+       Player B threw $<?php echo $playerB; ?>  <br>
+        $<?php echo $resultA; ?>  is the winner.
+       Player A threw $<?php echo $playerA; ?> <br>
+       Player B threw $<?php echo $playerB; ?> <br>
        Game is a draw.
     </p>
     </main>
