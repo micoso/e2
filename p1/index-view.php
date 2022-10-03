@@ -14,20 +14,11 @@
         <p>
        Player A threw <?php echo $playerA; ?>  <br> 
        Player B threw <?php echo $playerB; ?>  <br>
-        <?php echo $resultA; ?>  is the winner.
+        <?php echo $result; ?>
 
-      <!-- Player A threw <?php echo $playerA; ?> <br>
-       Player B threw <?php echo $playerB; ?> <br>
-       Game is a draw. -->
     </p>
     </main>
     <footer>    </footer>
 </body>
 
-<!--
-
-var_dump($playerA);
-//var_dump($playerB);
-?>
--->
 </html>
