@@ -11,8 +11,10 @@ $playerA = $throw[rand(0, 1, 2)];
 $playerB = $throw[rand(0, 1, 2)];
 
 // Compare Player A throw to Player B throw with if then
-if ($playerA == 'rock' && $playerB == 'scissors');||
-($playerA == 'paper') && ($playerB == 'rock') ||
+if ($playerA == 'rock' && $playerB == 'scissors') {
+    
+}
+($playerA == 'paper') && ($playerB == 'rock')
 ($playerA == 'scissors') && ($playerB == 'paper') 
 then ($playerA == 'Winner')
 
