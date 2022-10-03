@@ -36,3 +36,4 @@ else ($playerB == 'Winner')
 
 // Report the results of Player A's Move, Player B's move, and the winner to the page 
 // Reset button for playing a new game
+?>

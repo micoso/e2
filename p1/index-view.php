@@ -15,9 +15,11 @@
     </main>
     <footer>    </footer>
 </body>
-</html>
 
-<?php
+<!--
+
 var_dump($playerA);
 //var_dump($playerB);
 ?>
+-->
+</html>
