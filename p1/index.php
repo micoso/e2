@@ -12,15 +12,15 @@ $playerB = $throw[rand(0, 1, 2)];
 
 // Compare Player A throw to Player B throw for draws and wins
 if ($playerA == $playerB) {
-($resultA && $resultB == 'Draw');
+($result = 'Draw');
 }
-elseif ($playerA == 'rock' && $playerB == 'scissors'){
-($resultA == 'Winner');
-}elseif ($playerA == 'paper' && $playerB == 'rock'){
-($resultA == 'Winner');
-}elseif($playerA == 'scissors' && $playerB == 'paper'){
-($resultA == 'Winner');
-}else ($resultB == 'Winner')
+elseif ($playerA = 'rock' && $playerB = 'scissors'){
+($resultA = 'Winner');
+}elseif ($playerA = 'paper' && $playerB = 'rock'){
+($resultA = 'Winner');
+}elseif($playerA = 'scissors' && $playerB = 'paper'){
+($resultA = 'Winner');
+}else ($resultB = 'Winner')
 
 
 //var_dump($playerA);
