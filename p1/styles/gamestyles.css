@@ -10,11 +10,14 @@ body {
 h1 {
     font-family: Calibri, Arial, sans-serif;
     color: #333333;
-    font-size:larger;
+    font-size: 24px; 
 }
 
-ul {
-    list-style: none;
+ul.results {
     font-style: italic;
-    font-size: larger;
+    font-size: 18px;
+
+li {
+    list-style-type: none;
+}
 }
