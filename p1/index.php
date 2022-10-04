@@ -1,5 +1,5 @@
 <?php
-require 'index-view.php';
+
 
 // Create array of throws with three elements 
 $throw = ['rock', 'paper', 'scissors'];
@@ -22,6 +22,8 @@ elseif ($playerA == 'rock' and $playerB == 'scissors'){
 ($result = 'Winner is Player A');
 }else ($result = 'Winner is Player B');
 
+
+require 'index-view.php';
 //var_dump($result)
 
 //var_dump($playerA);
