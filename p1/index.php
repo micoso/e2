@@ -18,15 +18,14 @@ elseif ($playerA == 'rock' and $playerB == 'scissors'){
 ($result = 'Winner is Player A');
 }elseif ($playerA == 'paper' and $playerB == 'rock'){
 ($result = 'Winner is Player A');
-}elseif($playerA == 'scissors' and $playerB == 'paper'){
+}elseif ($playerA == 'scissors' and $playerB == 'paper'){
 ($result = 'Winner is Player A');
 }else ($result = 'Winner is Player B');
 
-var_dump($result)
+//var_dump($result)
 
 //var_dump($playerA);
 // var_dump($playerB);
-
 
 // Report the results of Player A's Move, Player B's move, and the winner to the page 
 

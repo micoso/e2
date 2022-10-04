@@ -11,12 +11,11 @@
         <h1>Rock Paper Scissors</h1> 
     </header>
     <main>
-        <p>
-       Player A threw <?php echo $playerA;?>  <br> 
-       Player B threw <?php echo $playerB;?>  <br>
-        <?php echo $result;?>
+        <ul>
+          <li> Player A threw <?php echo $playerA;?> <br></li> 
+          <li> Player B threw <?php echo $playerB;?>  <br></li>
+          <li?><?php echo $result;?></li>
 
-    </p>
     </main>
     <footer>    </footer>
 </body>
