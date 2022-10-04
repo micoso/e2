@@ -24,12 +24,5 @@ elseif ($playerA == 'rock' and $playerB == 'scissors'){
 
 
 require 'index-view.php';
-//var_dump($result)
 
-//var_dump($playerA);
-// var_dump($playerB);
-
-// Report the results of Player A's Move, Player B's move, and the winner to the page 
-
-// Reset button for new game
 ?>
