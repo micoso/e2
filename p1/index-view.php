@@ -14,7 +14,7 @@
         <ul>
           <li> Player A threw <?php echo $playerA;?> <br></li> 
           <li> Player B threw <?php echo $playerB;?>  <br></li>
-          <li?><?php echo $result;?></li>
+          <li> <?php echo $result;?></li>
 
     </main>
     <footer>    </footer>
