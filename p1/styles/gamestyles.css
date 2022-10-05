@@ -10,13 +10,14 @@ body {
 h1 {
     font-family: Calibri, Arial, sans-serif;
     color: #333333;
-    font-size: 28px; 
+    font-size: 28px;
 }
 
 ul.results {
     font-style: italic;
     font-size: 18px;
-li {
-    list-style-type: ;
-}
+
+    li {
+        list-style-type: ;
+    }
 }
