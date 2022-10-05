@@ -2,6 +2,8 @@ Project 1- Rock Paper Scissors
 By Michelle Soso
 URL: http://www.hesgradwork.me/e2/p1/index.php
 
+     http://www.e2p1.hesgradwork.me
+
 Game planning
 
 Assign values to three throw options
