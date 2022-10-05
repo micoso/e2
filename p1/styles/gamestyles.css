@@ -12,12 +12,3 @@ h1 {
     color: #333333;
     font-size: 28px;
 }
-
-ul.results {
-    font-style: italic;
-    font-size: 18px;
-
-    li {
-        list-style-type: ;
-    }
-}
