@@ -4,7 +4,7 @@
     <title>Mystery Word Scramble Results</title>
     <meta charset='utf-8'>
     <link href=data: , rel=icon>
-</head>
+
     <style>
     .correct {
         color: green;
@@ -14,6 +14,8 @@
         color: red;
     }
     </style>
+</head>
+
 <body>
 
 <h1>Your Results</h1>
@@ -26,8 +28,9 @@ Please enter an answer.
 <?php } else { ?>
 <div class='incorrect'>
     Sorry incorrect :(</div>
-<a href='index.php'>Try again.</a>
 <?php } ?>
+
+<a href='index.php'>Click to play again.
     
 
 </body>
