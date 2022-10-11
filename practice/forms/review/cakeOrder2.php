@@ -7,7 +7,7 @@
 <input type='radio' name='size' id='small'>
 <label for='red'>Small (6")</label>
 
-<input type='radio' name='size' id='medium'>
+<input type='radio' name='size' id='medium' checked>
 <label for='orange'>Medium (8")</label>
 
 <input type='radio' name='size' id='large'>
@@ -18,7 +18,7 @@
     <div>
         <p>You can place two lines of text.
         <label for='writing1'>Line 1</label>
-        <input type='text' id='line1' value='Happy Birthday'>
+        <input type='text' value='Happy Birthday 'id='line1' >
         <label for='writing2'>Line 2</label>
         <input type='text' id='line2' value='Vaughn'></p>
     </div> 
@@ -28,7 +28,7 @@
         <select id='flavor'>
             <option>Choose one...</option>
             <option>Chocolate</option>
-            <option>Red Velvet</option>
+            <option selected>Red Velvet</option>
             <option>Vanilla</option>
             <option>Marble chocolate and vanilla</option>
             <option>Unicorn rainbow layers</option>
@@ -41,7 +41,7 @@
             <option>Choose one...</option>
             <option>Chocolate buttercream</option>
             <option>White Chocolate buttercream</option>
-            <option>Vanilla buttercream</option>
+            <option selected>Vanilla buttercream</option>
             <option>Lemon buttercream/yellow/</option>
             <option>Blue buttercream/vanilla</option>
             <option>Pink buttercream/strawberry</option>
