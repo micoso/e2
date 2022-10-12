@@ -22,7 +22,7 @@ function shuffle_assoc($words) {
   foreach ($keys as $key)
     $random[$key] = $words[$key];
 
-  return $random; 
+  return $random; }
 
   var_dump($random);
 
