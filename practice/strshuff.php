@@ -26,4 +26,4 @@ function shuffle_assoc($words) {
 
   var_dump($random);
 
-  
+?>
